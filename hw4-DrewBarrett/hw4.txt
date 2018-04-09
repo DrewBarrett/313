@@ -1,0 +1,6 @@
+1a
+    Function g takes an array t and position k and sets t[k]
+    if t[k] is false (nil) then t[k] will be set to 0
+1b
+    function h takes a value a and makes it positive if it is not already
+    if a > 0 then it returns a. else it returns -a because it becomes (a > 0) or -a and -a is the only true one so or returns -a
